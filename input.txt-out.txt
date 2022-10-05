@@ -1,0 +1,7 @@
+^laikA/laikA<cat:n><case:d><gen:m><num:s>/laikA<cat:n><case:o><gen:m><num:s>$
+^kiwAba/kiwAba<cat:n><case:d><num:s>$
+^kissA/kissA<cat:n><case:d><num:s>$
+^KAiwa/KA<cat:v><num:s><case:d><tam:adj_iwa>/KA<cat:v><num:s><case:d><tam:adv_iwa>/KA<cat:v><num:s><case:o><tam:adj_iwa>/KA<cat:v><num:s><case:o><tam:adv_iwa>/KA<cat:v><num:p><case:d><tam:adj_iwa>/KA<cat:v><num:p><case:d><tam:adv_iwa>/KA<cat:v><num:p><case:o><tam:adj_iwa>/KA<cat:v><num:p><case:o><tam:adv_iwa>$
+^haravAhA/haravAhA<cat:n><gen:m><num:s>$
+^pakkA/pakkA<cat:n><case:d><num:s>$
+^wora/wu<cat:p><case:o><per:m_h2><num:s>/wu<cat:p><case:gen><per:m><num:s>/wu<cat:p><case:gen><per:m_h2><num:s>$

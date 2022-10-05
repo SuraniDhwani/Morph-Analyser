@@ -1,0 +1,482 @@
+﻿<?xml version="1.0"?>
+<!-- Generated canonical form dictionary -->
+<dictionary>
+<alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>
+<sdefs>
+<sdef n="cat:n" c="Noun"/>
+<sdef n="cat:p" c="Pronoun"/>
+<sdef n="cat:v" c="verb"/>
+<sdef n="cat:vn" c="verbal noun"/>  
+<sdef n="cat:adj" c="Adjective"/>
+<sdef n="cat:sh" c="shashthi"/>
+<sdef n="cat:prsg" c="parsarg(ViBakwi-PostPosition)"/>
+<sdef n="cat:cnj" c="conjunction"/>
+<sdef n="cat:prawyaya" c="prawyaya"/>
+
+<sdef n="gen:m" c="masculine"/>
+<sdef n="gen:f" c="feminine"/>
+<sdef n="gen:ne" c="neutor"/>
+<sdef n="gen:na" c="not applicable"/>
+
+<sdef n="case:d" c="direct"/>
+<sdef n="case:o" c="oblique"/>
+<sdef n="case:gen" c="genitive"/>
+<!-- <sdef n="case:Shashthi" c="shashthi"/> instead added parsarg:kA-->
+
+<sdef n="parsarg:0" c="0"/>
+<sdef n="parsarg:ke" c="ke"/>
+<sdef n="parsarg:se" c="se"/>
+<sdef n="parsarg:de" c="de"/>
+
+<sdef n="parsarg:meM" c="meM"/>
+<sdef n="parsarg:meM_se" c="meM_se"/>
+<sdef n="parsarg:kA" c="shashthi"/>
+<sdef n="parsarg:kI" c="shashthi"/>
+<sdef n="parsarg:para" c="para"/>
+
+<sdef n="num:s" c="singular"/>
+<sdef n="num:p" c="plural"/>
+<sdef n="num:na" c="not applicable"/>
+
+<sdef n="fnum:s" c="following noun singular"/>
+<sdef n="fnum:p" c="following noun plural"/>
+
+<sdef n="per:u" c="first"/>
+<sdef n="per:m" c="second"/>
+
+<sdef n="per:m_h1" c="second_honorific wuma jAo"/>
+<sdef n="per:m_h2" c="second_honorific Apa jAyie"/>
+<sdef n="per:m_h" c="second_honorific"/>
+<sdef n="per:a" c="third"/>
+<sdef n="per:a_h1" c="third_honorific1"/>
+<sdef n="per:a_h2" c="third_honorific2"/>
+
+<sdef n="tam:adv_iwa" c="adverbial iwa"/>
+<sdef n="tam:adj_iwa" c="adjective iwa  (no change)"/>
+<sdef n="tam:adj_iwa_hi" c="adjective iwa hi (no change)"/>
+<sdef n="tam:adj_ela" c="adjective ela"/>
+<sdef n="tam:iwa_rahe_ke_hE" c="iwa_rahe_ke_hE"/>
+<sdef n="tam:iwa_rahe_ke_hau" c="iwa_rahe_ke_hau"/>
+<sdef n="tam:iwa_rahe_ke_hava" c="iwa_rahe_ke_hava"/>
+<sdef n="tam:iwa_rahe_ke_hEna" c="iwa_rahe_ke_hEna"/>
+<sdef n="tam:iwa_rahe_ke_hai" c="iwa_rahe_ke_hai"/>
+<sdef n="tam:iwa_rahe_ke_haina" c="iwa_rahe_ke_haina"/>
+
+<sdef n="tam:adv_Uwa" c="adverbial Uwa"/>
+<sdef n="tam:adj_Uwa" c="adjective Uwa"/>
+<sdef n="tam:uwa_hi" c="uwa_hi"/>
+<sdef n="tam:uwa_he" c="uwa_he"/>
+<sdef n="tam:uwa_hai" c="uwa_hai"/>
+<sdef n="tam:adv_uwa_ha" c="adverbial uwa_ha"/>
+<sdef n="tam:adj_uwa_ha" c="adjective uwa_ha"/>
+
+<sdef n="tam:uwa_haWina" c="uwa_haWina"/>
+
+<sdef n="tam:adj_uwiwa" c="adjective uwiwa"/>
+<sdef n="tam:uwiwa_hi" c="uwiwa_hi"/>
+<sdef n="tam:uwiwa_he" c="uwiwa_he"/>
+<sdef n="tam:uwiwa_hai" c="uwiwa_hai"/>
+
+<sdef n="tam:uwiwa_ha" c="uwiwa_haWina"/>
+<sdef n="tam:uwiwa_haWina" c="uwiwa_haWina"/>
+<sdef n="tam:uwa_leli" c="uwa_leli"/>
+<sdef n="tam:uwa_lela" c="uwa_lela"/>
+<sdef n="tam:uwa_lele" c="uwa_lele"/>
+<sdef n="tam:uwa_lelaWina" c="uwa_lelaWina"/>
+<sdef n="tam:uwa_lelai" c="uwa_lelai"/>
+<sdef n="tam:uwbai" c="uwbai"/>
+
+<sdef n="tam:adj_wA_huA" c="adjective (kqxanwa) Rising sun"/>
+<sdef n="tam:adj_yA_huA" c="adjective ed/en -- He is a changed person now -- "/>
+<sdef n="tam:we_rahanA_hE" c="adverbial we_rahanA_hE (no change)"/>
+<sdef n="tam:imper" c="imperative(AjFArWaka)"/>
+<sdef n="tam:subj" c="subjunctive"/>
+
+<sdef n="tam:nA" c="nA"/>
+<sdef n="tam:wA" c="wA"/>
+<sdef n="tam:yA" c="yA"/>
+<sdef n="tam:yA1" c="yA1"/>
+<sdef n="tam:kara" c="kara"/>
+<sdef n="tam:gA" c="gA"/>
+<sdef n="tam:hE" c="hE"/>
+<sdef n="tam:WA" c="WA"/>
+<sdef n="tam:0" c="0"/>
+</sdefs>
+
+<pardefs>
+
+    <pardef n="prawyaya">
+        <e><p><l></l><r><s n="cat:prawyaya"/></r></p></e>
+    </pardef>
+    <pardef n="parsarg">
+        <e><p><l></l><r><s n="cat:prsg"/></r></p></e>
+    </pardef>
+    <pardef n="conjunct">
+        <e><p><l></l><r><s n="cat:cnj"/></r></p></e>
+    </pardef>
+
+    <pardef n="laik/A__n">
+        <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+        <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+        <e><p><l>ana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+        <e><p><l>ana</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+        <e><p><l>avana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+        <e><p><l>ave</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+        <e><p><l>I</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+        <e><p><l>ave</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+    </pardef>
+
+    <pardef n="kiwAb/a__n">
+        <e><p><l></l><r><s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+        <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+        <e><p><l>bana</l><r>a<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    </pardef>
+
+    <pardef n="kiss/A__n">
+        <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+        <e><p><l>e</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+        <e><p><l>e</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    </pardef>
+
+    <pardef n="bUdh/A__n">
+        <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+        <e><p><l>iyA</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+        <e><p><l>vana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+        <e><p><l>iyana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+        <e><p><l>ana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:ne"/><s n="num:p"/></r></p></e>
+    </pardef>
+
+    
+
+<pardef n="KA/__v">
+<e><p><l></l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/></r></p></e> 
+<e><p><l>nA</l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/></r></p></e>
+<e><p><l>nA</l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/></r></p></e>
+
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/><s n="tam:adj_iwa"/></r></p></e>  
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/><s n="tam:adj_iwa"/></r></p></e> 
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:d"/><s n="tam:adj_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:d"/><s n="tam:adj_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:s"/><s n="case:o"/><s n="tam:adj_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:s"/><s n="case:o"/><s n="tam:adj_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:o"/><s n="tam:adj_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:o"/><s n="tam:adj_iwa"/></r></p></e>
+
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/><s n="tam:adv_iwa"/></r></p></e> 
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:d"/><s n="tam:adv_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:d"/><s n="tam:adv_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:s"/><s n="case:o"/><s n="tam:adv_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:s"/><s n="case:o"/><s n="tam:adv_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:o"/><s n="tam:adv_iwa"/></r></p></e>
+<e><p><l>iwa</l><r><s n="cat:v"/><s n="num:p"/><s n="case:o"/><s n="tam:adv_iwa"/></r></p></e>
+
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/><s n="tam:adj_ela"/></r></p></e>
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:s"/><s n="case:d"/><s n="tam:adj_ela"/></r></p></e>
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:p"/><s n="case:d"/><s n="tam:adj_ela"/></r></p></e>
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:p"/><s n="case:d"/><s n="tam:adj_ela"/></r></p></e>
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:s"/><s n="case:o"/><s n="tam:adj_ela"/></r></p></e>
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:s"/><s n="case:o"/><s n="tam:adj_ela"/></r></p></e>
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:p"/><s n="case:o"/><s n="tam:adj_ela"/></r></p></e>
+<e><p><l>ela</l><r><s n="cat:v"/><s n="num:p"/><s n="case:o"/><s n="tam:adj_ela"/></r></p></e>
+
+<e><p><l>iwa_rahe_ke_hE</l><r><s n="cat:v"/><s n="num:s"/><s n="per:u"/><s n="tam:iwa_rahe_ke_hE"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hE</l><r><s n="cat:v"/><s n="num:s"/><s n="per:u"/><s n="tam:iwa_rahe_ke_hE"/></r></p></e>
+
+<e><p><l>iwa_rahe_ke_hau</l><r><s n="cat:v"/><s n="num:s"/><s n="per:m"/><s n="tam:iwa_rahe_ke_hau"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hau</l><r><s n="cat:v"/><s n="num:s"/><s n="per:m"/><s n="tam:iwa_rahe_ke_hau"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hau</l><r><s n="cat:v"/><s n="num:p"/><s n="per:m"/><s n="tam:iwa_rahe_ke_hau"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hau</l><r><s n="cat:v"/><s n="num:p"/><s n="per:m"/><s n="tam:iwa_rahe_ke_hau"/></r></p></e>
+
+<e><p><l>iwa_rahe_ke_hava</l><r><s n="cat:v"/><s n="num:s"/><s n="per:m_h1"/><s n="tam:iwa_rahe_ke_hava"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hava</l><r><s n="cat:v"/><s n="num:s"/><s n="per:m_h1"/><s n="tam:iwa_rahe_ke_hava"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hava</l><r><s n="cat:v"/><s n="num:p"/><s n="per:m_h1"/><s n="tam:iwa_rahe_ke_hava"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hava</l><r><s n="cat:v"/><s n="num:p"/><s n="per:m_h1"/><s n="tam:iwa_rahe_ke_hava"/></r></p></e>
+
+<e><p><l>iwa_rahe_ke_haina</l><r><s n="cat:v"/><s n="num:p"/><s n="per:m_h1"/><s n="tam:iwa_rahe_ke_haina"/></r></p></e>
+<e><p><l>iwa_rahe_ke_haina</l><r><s n="cat:v"/><s n="num:p"/><s n="per:m_h1"/><s n="tam:iwa_rahe_ke_haina"/></r></p></e>
+<e><p><l>iwa_rahe_ke_haina</l><r><s n="cat:v"/><s n="num:s"/><s n="per:m_h2"/><s n="tam:iwa_rahe_ke_haina"/></r></p></e>
+<e><p><l>iwa_rahe_ke_haina</l><r><s n="cat:v"/><s n="num:s"/><s n="per:m_h2"/><s n="tam:iwa_rahe_ke_haina"/></r></p></e>
+<e><p><l>iwa_rahe_ke_haina</l><r><s n="cat:v"/><s n="num:s"/><s n="per:a_h2"/><s n="tam:iwa_rahe_ke_haina"/></r></p></e>
+<e><p><l>iwa_rahe_ke_haina</l><r><s n="cat:v"/><s n="num:s"/><s n="per:a_h2"/><s n="tam:iwa_rahe_ke_haina"/></r></p></e>
+
+<e><p><l>iwa_rahe_ke_hai</l><r><s n="cat:v"/><s n="num:s"/><s n="per:a"/><s n="tam:iwa_rahe_ke_hai"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hai</l><r><s n="cat:v"/><s n="num:s"/><s n="per:a"/><s n="tam:iwa_rahe_ke_hai"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hai</l><r><s n="cat:v"/><s n="num:p"/><s n="per:a"/><s n="tam:iwa_rahe_ke_hai"/></r></p></e>
+<e><p><l>iwa_rahe_ke_hai</l><r><s n="cat:v"/><s n="num:p"/><s n="per:a"/><s n="tam:iwa_rahe_ke_hai"/></r></p></e>
+
+</pardef>
+
+<pardef n="harav/AhA__n"><!--baurAhA caravAhA harabahiniAM caravahiniAM  baurahiniAM -->
+    <e><p><l>AhA</l><r>AhA<s n="cat:n"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>Ahi</l><r>AhA<s n="cat:n"/><s n="gen:ne"/><s n="num:s"/></r></p></e>
+    <e><p><l>Ahiye</l><r>AhA<s n="cat:n"/><s n="gen:ne"/><s n="num:s"/></r></p></e>
+    
+</pardef>
+    
+<pardef n="harab/__n">
+    <e><p><l>ahiniAM</l><r>a<s n="cat:n"/><s n="gen:ne"/><s n="num:s"/></r></p></e>
+</pardef>
+
+<pardef n="kar/Aha__n">
+    <e><p><l>Aha</l><r>AhA<s n="cat:n"/><s n="gen:ne"/><s n="num:s"/></r></p></e>
+    <e><p><l>ahavana</l><r>AhA<s n="cat:n"/><s n="gen:ne"/><s n="num:p"/></r></p></e>
+</pardef>
+
+<pardef n="xal/Ana__n">
+    <e><p><l>Ana</l><r>Ana<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>anavana</l><r>Ana<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    <e><p><l>Ane</l><r>Ana<s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+</pardef>
+
+<pardef n="Kati/A__n">
+    <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>vana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    <e><p><l>ve</l><r>A<s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+</pardef>
+
+<pardef n="maci/A__n">
+    <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>vana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    <e><p><l>ve</l><r>A<s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+    <e><p><l>ana</l><r>A<s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+</pardef>
+
+<pardef n="bAw/a__n">
+    <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>iana</l><r>a<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    <e><p><l>e</l><r>a<s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+    <e><p><l>iyA</l><r>a<s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+</pardef>
+
+<pardef n="kevAri/__n">
+    <e><p><l></l><r><s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>ana</l><r><s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    <e><p><l>yA</l><r><s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+    <e><p><l>ye</l><r><s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+</pardef>
+
+<pardef n="pandIwa/__n">
+    <e><p><l></l><r><s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>loga</l><r><s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+</pardef>
+
+<pardef n="pariAIna/__n">
+    <e><p><l></l><r><s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+    <e><p><l>sab</l><r><s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+</pardef>
+
+<pardef n="cor/a__n">
+    <e><p><l></l><r><s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>i</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:na"/><s n="num:s"/></r></p></e>
+    <e><p><l>iye</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:na"/><s n="num:na"/></r></p></e>
+    <e><p><l>ave</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>ani</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+    <e><p><l>avana</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+    <e><p><l>aniana</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+    <e><p><l>aniye</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>aniane</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+    
+</pardef>
+
+<pardef n="pak/kA__n">
+    <e><p><l>kA</l><r>kA<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>avana</l><r>kA<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+</pardef>
+
+<pardef n="jaMgal/A__n">
+    <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>avana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="num:p"/></r></p></e>
+    <e><p><l>ave</l><r>A<s n="cat:n"/><s n="case:o"/><s n="num:s"/></r></p></e>
+</pardef>
+
+
+<pardef n="ham/a__p">
+    <e><p><l>a</l><r>a<s n="cat:p"/><s n="case:d"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>mara</l><r>a<s n="cat:p"/><s n="case:gen"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>arA</l><r>a<s n="cat:p"/><s n="case:o"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>ani</l><r>a<s n="cat:p"/><s n="case:d"/><s n="per:u"/><s n="num:p"/></r></p></e>
+</pardef>
+
+<pardef n="w/u__p">
+    <e><p><l>u</l><r><s n="cat:p"/><s n="case:d"/><s n="per:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>ora</l><r>u<s n="cat:p"/><s n="case:gen"/><s n="per:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>ora</l><r>u<s n="cat:p"/><s n="case:gen"/><s n="per:m_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>ora</l><r>u<s n="cat:p"/><s n="case:o"/><s n="per:m_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>orA</l><r>u<s n="cat:p"/><s n="case:o"/><s n="per:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>ohani</l><r>u<s n="cat:p"/><s n="case:d"/><s n="per:m"/><s n="num:p"/></r></p></e>
+</pardef>
+
+<pardef n="/u__p">
+    <e><p><l>u</l><r>u<s n="cat:p"/><s n="case:d"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>okra</l><r>u<s n="cat:p"/><s n="case:gen"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>okarA</l><r>u<s n="cat:p"/><s n="case:o"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>unakara</l><r>u<s n="cat:p"/><s n="case:gen"/><s n="per:a_h1"/><s n="num:s"/></r></p></e>
+    <e><p><l>unkarA</l><r>u<s n="cat:p"/><s n="case:o"/><s n="per:a_h1"/><s n="num:s"/></r></p></e>
+    <e><p><l>u_saba</l><r>u<s n="cat:p"/><s n="case:d"/><s n="per:a"/><s n="num:p"/></r></p></e>
+</pardef>
+
+<pardef n="/i__p">
+    <e><p><l>i</l><r>i<s n="cat:p"/><s n="case:d"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>ekara</l><r>i<s n="cat:p"/><s n="case:gen"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>ekarA</l><r>i<s n="cat:p"/><s n="case:o"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>i_saba</l><r>i<s n="cat:p"/><s n="case:d"/><s n="per:a"/><s n="num:p"/></r></p></e>
+    <e><p><l>inkara</l><r>i<s n="cat:p"/><s n="case:gen"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>inkarA</l><r>i<s n="cat:p"/><s n="case:o"/><s n="per:a_h1"/><s n="num:s"/></r></p></e>
+</pardef>
+
+<pardef n="s/Uwa__v">
+    <e><p><l>Uwa</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="num:s"/><s n="tam:adv_Uwa"/></r></p></e>
+    <e><p><l>Uwa</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="num:s"/><s n="tam:adj_Uwa"/></r></p></e>
+    <e><p><l>Uwa</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="num:s"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwa_hi</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/><s n="tam:uwa_hi"/></r></p></e>
+    <e><p><l>uwa_he</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/><s n="tam:uwa_he"/></r></p></e>
+    <e><p><l>uwa_he</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/><s n="tam:uwa_he"/></r></p></e>
+    <e><p><l>uwa_hai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/><s n="tam:uwa_hai"/></r></p></e>
+    <e><p><l>uwa_hai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:p"/><s n="tam:uwa_hai"/></r></p></e>
+
+    <e><p><l>uwa_ha</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/><s n="tam:adv_uwa_ha"/></r></p></e>
+    <e><p><l>uwa_ha</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/><s n="tam:adv_uwa_ha"/></r></p></e>
+    <e><p><l>uwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/><s n="tam:uwa_haWina"/></r></p></e>
+    <e><p><l>uwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/><s n="tam:uwa_haWina"/></r></p></e>
+    <e><p><l>uwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/><s n="tam:uwa_haWina"/></r></p></e>
+    <e><p><l>uwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/><s n="tam:uwa_haWina"/></r></p></e>
+    
+    <e><p><l>uwiwa</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="num:s"/><s n="tam:adj_uwiwa"/></r></p></e>
+    <e><p><l>uwiwa_hi</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/><s n="tam:uwiwa_hi"/></r></p></e>
+    <e><p><l>uwiwa_he</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/><s n="tam:uwiwa_he"/></r></p></e>
+    <e><p><l>uwiwa_he</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/><s n="tam:uwiwa_he"/></r></p></e>
+    <e><p><l>uwiwa_hai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/><s n="tam:uwiwa_hai"/></r></p></e>
+    <e><p><l>uwiwa_hai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:p"/><s n="tam:uwiwa_hai"/></r></p></e>
+
+    <e><p><l>uwiwa_ha</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/><s n="tam:uwiwa_ha"/></r></p></e>
+    <e><p><l>uwiwa_ha</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/><s n="tam:uwiwa_ha"/></r></p></e>
+    <e><p><l>uwiwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/><s n="tam:uwiwa_haWina"/></r></p></e>
+    <e><p><l>uwiwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/><s n="tam:uwiwa_haWina"/></r></p></e>
+    <e><p><l>uwiwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/><s n="tam:uwiwa_haWina"/></r></p></e>
+    <e><p><l>uwiwa_haWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/><s n="tam:uwiwa_haWina"/></r></p></e>
+
+    <e><p><l>uwa_leli</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/><s n="tam:uwa_leli"/></r></p></e>
+    <e><p><l>uwa_lele</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/><s n="tam:uwa_lele"/></r></p></e>
+    <e><p><l>uwa_lele</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/><s n="tam:uwa_lele"/></r></p></e>
+    <e><p><l>uwa_lela</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/><s n="tam:uwa_lela"/></r></p></e>
+    <e><p><l>uwa_lela</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/><s n="tam:uwa_lela"/></r></p></e>
+    <e><p><l>uwa_lelaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/><s n="tam:uwa_lelaWina"/></r></p></e>
+    <e><p><l>uwa_lelaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/><s n="tam:uwa_lelaWina"/></r></p></e>
+
+    <e><p><l>uwa_lelai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/><s n="tam:uwa_lelai"/></r></p></e>
+    <e><p><l>uwa_lelai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:p"/><s n="tam:uwa_lelai"/></r></p></e>
+    <e><p><l>uwa_lelaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/><s n="tam:uwa_lelaWina"/></r></p></e>
+    <e><p><l>uwa_lelaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/><s n="tam:uwa_lelaWina"/></r></p></e>
+
+    <e><p><l>uwbai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/><s n="tam:uwbai"/></r></p></e>
+    <e><p><l>uwama</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwabe</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwabe</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwabahU</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwabahU</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwawai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwawai</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:p"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwawaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/><s n="tam:subj"/></r></p></e>
+    <e><p><l>uwawaWina</l><r>Uwa<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/><s n="tam:subj"/></r></p></e>
+</pardef>
+
+<pardef n="rah/a__v">
+    <e><p><l>a</l><r>a<s n="cat:v"/><s n="case:d"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_hi</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_he</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_he</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_ha</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_ha</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_hai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_hai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/></r></p></e>
+
+    <e><p><l>iwa_hl</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>iwa_he</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>iwa_he</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/></r></p></e>
+    <e><p><l>iwa_ha</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/></r></p></e>
+    <e><p><l>iwa_ha</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/></r></p></e>
+    <e><p><l>iwa_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>iwa_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/></r></p></e>
+    <e><p><l>iwa_hai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>iwa_hai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:p"/></r></p></e>
+    <e><p><l>iwa_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>iwa_haWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/></r></p></e>
+
+    <e><p><l>a_lelI</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_lele</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_lele</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_lela</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_lela</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_lelaWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_lelaWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_lelai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_lelai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_lelaWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_lelaWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/></r></p></e>
+
+    <e><p><l>abai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>ama</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:u"/><s n="num:s"/></r></p></e>
+    <e><p><l>abe</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:s"/></r></p></e>
+    <e><p><l>abe</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m"/><s n="num:p"/></r></p></e>
+    <e><p><l>aba</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:s"/></r></p></e>
+    <e><p><l>aba</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h1"/><s n="num:p"/></r></p></e>
+    
+    <e><p><l>a_waWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_waWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:m_h2"/><s n="num:p"/></r></p></e>
+
+    <e><p><l>awai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:s"/></r></p></e>
+    <e><p><l>awai</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a"/><s n="num:p"/></r></p></e>
+    <e><p><l>a_waWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:s"/></r></p></e>
+    <e><p><l>a_waWina</l><r>a<s n="cat:v"/><s n="case:d"/><s n="per:a_h2"/><s n="num:p"/></r></p></e>
+    
+
+</pardef>
+
+</pardefs>
+
+<section id="main" type="standard">
+       
+<e lm="laik"><i>laik</i><par n="laik/A__n"/></e> 
+<e lm="cauki"><i>cauki</i><par n="laik/A__n"/></e>
+<e lm="kiss"><i>kiss</i><par n="kiss/A__n"/></e>
+<e lm="hiss"><i>hiss</i><par n="kiss/A__n"/></e>
+<e lm="kiwAb"><i>kiwAb</i><par n="kiwAb/a__n"/></e>
+<e lm="hisAb"><i>hisAb</i><par n="kiwAb/a__n"/></e>
+<e lm="bUdh"><i>bUdh</i><par n="bUdh/A__n"/></e>
+<e lm="KA"><i>KA</i><par n="KA/__v"/></e>
+<e lm="harav"><i>harav</i><par n="harav/AhA__n"/></e>
+<e lm="carav"><i>carav</i><par n="harav/AhA__n"/></e>
+<e lm="kar"><i>kar</i><par n="kar/Aha__n"/></e>
+<e lm="bi"><i>bi</i><par n="kar/Aha__n"/></e>
+<e lm="sal"><i>sal</i><par n="kar/Aha__n"/></e>
+<e lm="xal"><i>xal</i><par n="xal/Ana__n"/></e>
+<e lm="mak"><i>mak</i><par n="xal/Ana__n"/></e>
+<e lm="xok"><i>xok</i><par n="xal/Ana__n"/></e>
+<e lm="harab"><i>harab</i><par n="harab/__n"/></e>
+<e lm="baur"><i>baur</i><par n="harab/__n"/></e>
+<e lm="carav"><i>carav</i><par n="harab/__n"/></e>
+<e lm="bAw"><i>bAw</i><par n="bAw/a__n"/></e>
+<e lm="Kati"><i>Kati</i><par n="Kati/A__n"/></e>
+<e lm="maci"><i>maci</i><par n="Kati/A__n"/></e>
+<e lm="maci"><i>maci</i><par n="maci/A__n"/></e><!--ana -->
+<e lm="kevAri"><i>kevAri</i><par n="kevAri/__n"/></e>
+<e lm="pandIwa"><i>pandIwa</i><par n="pandIwa/__n"/></e>
+<e lm="pariAIna"><i>pariAIna</i><par n="pariAIna/__n"/></e>
+<e lm="cor"><i>cor</i><par n="cor/a__n"/></e>
+<e lm="pak"><i>pak</i><par n="pak/kA__n"/></e>
+<e lm="jaMgal"><i>jaMgal</i><par n="jaMgal/A__n"/></e>
+<e lm="ham"><i>ham</i><par n="ham/a__p"/></e>
+<e lm="w"><i>w</i><par n="w/u__p"/></e>
+<e lm="u"><i></i><par n="/u__p"/></e>
+<e lm="i"><i></i><par n="/i__p"/></e>
+<e lm="s"><i>s</i><par n="s/Uwa__v"/></e>
+<e lm="rah"><i>rah</i><par n="rah/a__v"/></e>
+</section>
+
+</dictionary>

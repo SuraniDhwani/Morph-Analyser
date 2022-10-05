@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!--"dZ" wale shabd aur anya shabdo k liye  -only for add new words-->
+<dictionary>
+    <alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>
+    <sdefs>
+
+    </sdefs>
+    <pardefs>
+    
+        <pardef n="badZ/A__adj">
+            <e><p><l>A</l><r>A<s n="cat:adj"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+            <e><p><l>I</l><r>A<s n="cat:adj"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+            <e><p><l>e</l><r>A<s n="cat:adj"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+            <e><p><l></l><r>A<s n="cat:"/><s n="case:"/><s n="per:"/><s n="num:"/></r></p></e>
+            </pardef>
+            
+            <pardef n="ladZak/A__n">
+                <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>I</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>e</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>eM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>IyAM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>IyoM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>IyoM</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>apana</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>apana</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>apanA</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                
+            </pardef>
+        
+            <pardef n="pedZ/a__n">
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+            </pardef>
+        
+            <pardef n="pIdZ/A__n">
+                <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>A</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>AeM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>AeM</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>AoM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>AoM</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>iwa</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>iwa</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>iwoM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>iwoM</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>iwA</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>iwA</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>iwAoM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>iwAoM</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>iwAeM</l><r>A<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>iwAeM</l><r>A<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>AxAyaka</l><r>A<s n="cat:adj"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>AhIna</l><r>A<s n="cat:adj"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>AxAyI</l><r>A<s n="cat:adj"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                
+            </pardef>
+            <pardef n="ladZA/I__n">
+                <e><p><l>I</l><r>I<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>I</l><r>I<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>IyAM</l><r>I<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>IyoM</l><r>I<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>IyoM</l><r>I<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>ku</l><r>I<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l></l><r>I<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l></l><r>I<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l></l><r>I<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+            </pardef>
+
+            <pardef n="calaciwr/a__n">
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+            </pardef>
+             
+            <pardef n="bujurg/a__n">
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:adj"/><s n="case:o"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>a</l><r>a<s n="cat:adj"/><s n="case:o"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:n"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                
+            </pardef>
+
+            <pardef n="Sahar/a__adj">
+                <e><p><l>I</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:m"/><s n="num:s"/></r></p></e>
+                <e><p><l>I</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>I</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:f"/><s n="num:s"/></r></p></e>
+                <e><p><l>I</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:adj"/><s n="case:o"/><s n="gen:m"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:adj"/><s n="case:d"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+                <e><p><l>oM</l><r>a<s n="cat:adj"/><s n="case:o"/><s n="gen:f"/><s n="num:p"/></r></p></e>
+               
+            </pardef>
+            
+           
+        </pardefs>
+        
+        <section>
+            <e lm="badZ"><i>badZ</i><par n="badZ/A__adj"/></e>
+            <e lm="ladZak"><i>ladZak</i><par n="ladZak/A__n"/></e>
+            <e lm="pedZ"><i>pedZ</i><par n="pedZ/a__n"/></e>
+            <e lm="pIdZ"><i>pIdZ</i><par n="pIdZ/A__n"/></e>
+            <e lm="ladZA"><i>ladZA</i><par n="ladZA/I__n"/></e>
+            <e lm="calaciwr"><i>calaciwr</i><par n="calaciwr/a__n"/></e>
+            <e lm="bujurg"><i>bujurg</i><par n="bujurg/a__n"/></e>
+            <e lm="Saha"><i>Saha</i><par n="Sahar/a__adj"/></e>
+        </section>
+
+</dictionary>
