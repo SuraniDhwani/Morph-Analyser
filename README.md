@@ -8,6 +8,8 @@ apertium :- Apertium is a rule-based machine translation toolchain and ecosystem
   * https://www.apertium.org/index.eng.html#?dir=eng-spa&q=namaste%0A
    
   * https://github.com/apertium
+  
+-> Above these are the links for the apertium where we can get all the information(documantation), access and installation process for the apertuim.
    
 Lttoolbox :- lttoolbox is a toolbox for lexical processing, morphological analysis and generation of words. Analysis is the process of splitting a word (e.g. cats)        into its lemma 'cat' and the grammatical information <n><pl>. Generation is the opposite process. lttoolbox contains finite state tools for lexical processing,      morphological analysis and generation of words. Analysis is the process of splitting a word like cats into its lemma cat and the grammatical information <n><pl>. Generation is the opposite process.
 
