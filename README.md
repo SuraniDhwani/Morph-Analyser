@@ -1,11 +1,13 @@
 # Morph-Analyser
-This is the basic source for the Magahi morph analyser for the Magahi reginal language for the the general purpose in NLP applications.
-With the help of computational linguistics concepts and reference from the apertium and lttoolbox 
+Here this Morph Analyser is the basic source for the Magahi morph analyser for the Magahi reginal language for the the general purpose in NLP applications.
+With the help of computational linguistics concepts and reference from the apertium and lttoolbox .
 
 apertium :- Apertium is a rule-based machine translation toolchain and ecosystem, with many of our tools based on finite-state transducers
-   https://en.wikipedia.org/wiki/Apertium
-   https://www.apertium.org/index.eng.html#?dir=eng-spa&q=namaste%0A
-   https://github.com/apertium
+  * https://en.wikipedia.org/wiki/Apertium
+   
+  * https://www.apertium.org/index.eng.html#?dir=eng-spa&q=namaste%0A
+   
+  * https://github.com/apertium
    
 Lttoolbox :- lttoolbox is a toolbox for lexical processing, morphological analysis and generation of words. Analysis is the process of splitting a word (e.g. cats)        into its lemma 'cat' and the grammatical information <n><pl>. Generation is the opposite process. lttoolbox contains finite state tools for lexical processing,      morphological analysis and generation of words. Analysis is the process of splitting a word like cats into its lemma cat and the grammatical information <n><pl>. Generation is the opposite process.
 
